@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Sam's Cool Table</name>
+        <order>100</order>
+        <roles>x_dttm_custom_appl.sam_s_cool_table_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>deloitte.sherring</sys_created_by>
+        <sys_created_on>2023-02-15 03:39:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>eff19051db412910da0b50b1f3961956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sam's Cool Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Custom Application" source="x_dttm_custom_appl">2e360305db89e510da0b50b1f39619a4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Custom Application">2e360305db89e510da0b50b1f39619a4</sys_scope>
+        <sys_update_name>sys_app_application_eff19051db412910da0b50b1f3961956</sys_update_name>
+        <sys_updated_by>deloitte.sherring</sys_updated_by>
+        <sys_updated_on>2023-02-15 03:39:10</sys_updated_on>
+        <title>Sam's Cool Table</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
