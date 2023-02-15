@@ -1,0 +1,2 @@
+- name: ServiceNow CI/CD Publish App
+  uses: ServiceNow/sncicd-publish-app@2.0.1
