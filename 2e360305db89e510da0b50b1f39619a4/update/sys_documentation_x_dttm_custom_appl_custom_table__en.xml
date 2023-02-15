@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Custom Table" language="en" table="x_dttm_custom_appl_custom_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Custom Table</label>
+            <language>en</language>
+            <name>x_dttm_custom_appl_custom_table</name>
+            <plural>Custom Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>deloitte.sherring</sys_created_by>
+            <sys_created_on>2023-02-15 02:02:33</sys_created_on>
+            <sys_id>0ceb7381dbcde510da0b50b1f3961960</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Custom Table</sys_name>
+            <sys_package display_value="Custom Application" source="x_dttm_custom_appl">2e360305db89e510da0b50b1f39619a4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Custom Application">2e360305db89e510da0b50b1f39619a4</sys_scope>
+            <sys_update_name>sys_documentation_x_dttm_custom_appl_custom_table__en</sys_update_name>
+            <sys_updated_by>deloitte.sherring</sys_updated_by>
+            <sys_updated_on>2023-02-15 02:02:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

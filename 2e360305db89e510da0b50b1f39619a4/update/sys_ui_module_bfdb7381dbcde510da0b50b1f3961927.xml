@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Custom Table">b3db7381dbcde510da0b50b1f396190c</application>
+        <filter/>
+        <name>Custom Tables</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_dttm_custom_appl.custom_table_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>deloitte.sherring</sys_created_by>
+        <sys_created_on>2023-02-15 02:02:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bfdb7381dbcde510da0b50b1f3961927</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom Tables</sys_name>
+        <sys_package display_value="Custom Application" source="x_dttm_custom_appl">2e360305db89e510da0b50b1f39619a4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Custom Application">2e360305db89e510da0b50b1f39619a4</sys_scope>
+        <sys_update_name>sys_ui_module_bfdb7381dbcde510da0b50b1f3961927</sys_update_name>
+        <sys_updated_by>deloitte.sherring</sys_updated_by>
+        <sys_updated_on>2023-02-15 02:02:31</sys_updated_on>
+        <table>x_dttm_custom_appl_custom_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
